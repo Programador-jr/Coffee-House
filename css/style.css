@@ -79,6 +79,12 @@ img{
 	border-radius: 5px;
 }
 
+.menu-categories{
+	color: #fff;
+	font-family: 'Satisfy', cursive;
+	margin-bottom: 90px;
+}
+
 ::-webkit-selection {
   color: #fff;
   background: #00bfff;
@@ -1585,8 +1591,8 @@ img{
   border: 2px solid #00bfff;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #ec3e44 !important;
-  border-color: #ec3e44 !important;
+  background: #00bfff !important;
+  border-color: #00bfff !important;
 }
 .btn-primary.btn-outline {
   -webkit-border-radius: 0px;
