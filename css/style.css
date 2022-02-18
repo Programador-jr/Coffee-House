@@ -448,6 +448,10 @@ img{
 .fh5co-section {
   padding: 7em 0;
 }
+
+em{
+  color: green;
+}
 @media screen and (max-width: 480px) {
   .fh5co-section {
     padding: 3em 0;
