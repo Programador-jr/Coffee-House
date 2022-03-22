@@ -272,7 +272,7 @@
 		if ($('.zoomerang').length > 0) {
 	   	// Zoomerang.config({maxHeight:730,maxWidth:900}).listen('.zoomerang');
 
-	   	$('.fh5co-bg-img').each(function(){
+	   	$('.bg-img').each(function(){
 	   		$(this).css('width', '100%');
 	   	});
 	   	Zoomerang
@@ -326,7 +326,7 @@
 		parallax();
 		DateTimePickerFunc();
 
-		$('.fh5co-bg-img').each(function(){
+		$('.bg-img').each(function(){
    		$(this).css('width', '100%');
    	});
 		// zoomFunc();
